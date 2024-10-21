@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 ollama/ollama:0.1.48
+--platform=linux/amd64 islemdockerdev/dypybench:v2.0
